@@ -13,3 +13,4 @@
 # 此行以及以上内容请勿删除。新images在此行下添加。提交新的images时，请删除旧的images
 
 langgenius/base:1.0.1-bullseye-slim
+langgenius/dify:0.8.3
